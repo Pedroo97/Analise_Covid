@@ -44,5 +44,5 @@ O mês de janeiro foi o que apresentou maior variabilidade do número de novos c
 
 Outro resultado interessante é a diminuição do número de mortes a partir do aumento de aplicação de vacinas, em meados de agosto de 2021. Ainda que houvesse um aumento desregular no número de casos em janeiro de 2022, o número de mortes continuou baixo. Esse resultado pode ser observado no gráfico de "Número de novas vacinas aplicadas, casos e mortes por Covid- 19. Brasil". 
 
-Também é importante ressaltar que o painel criado é iterativo.
+Também é importante ressaltar que o painel criado é interativo.
 
